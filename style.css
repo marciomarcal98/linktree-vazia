@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: oklch(25.8% 0.092 26.042);
+    background-color: oklch(28.2% 0.091 267.935);
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -14,7 +14,7 @@ body {
 }
 
 div {
-    background-color: oklch(39.6% 0.141 25.723);
+    background-color: oklch(37.9% 0.146 265.522);
     width: 384px;
     padding: 40px;
     text-align: center;
@@ -39,7 +39,6 @@ div h1 {
 }
 
 div strong {
-    color: #C4F82A;
     font-size: 14px;
     line-height: 21px;
 }
@@ -60,7 +59,7 @@ div a {
     justify-content: center;
     gap: 6px;
     text-decoration: none;
-    background-color: #333333;
+    background-color: oklch(28.2% 0.091 267.935);
     padding: 12px;
     border-radius: 8px;
     font-weight: 700;
@@ -69,7 +68,6 @@ div a {
 }
 
 div a:hover {
-    background-color: #C4F82A;
-    color: #141414;
+    background-color: oklch(39.6% 0.141 25.723);
     transition: 0.7s;
 }

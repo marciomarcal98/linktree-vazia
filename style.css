@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: oklch(28.2% 0.091 267.935);
+    background-color: oklch(20.8% 0.042 265.755);
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -14,7 +14,7 @@ body {
 }
 
 div {
-    background-color: oklch(37.9% 0.146 265.522);
+    background-color: oklch(28.2% 0.091 267.935);
     width: 384px;
     padding: 40px;
     text-align: center;
@@ -60,7 +60,7 @@ div a {
     justify-content: center;
     gap: 6px;
     text-decoration: none;
-    background-color: oklch(28.2% 0.091 267.935);
+    background-color: oklch(20.8% 0.042 265.755);
     padding: 12px;
     border-radius: 8px;
     font-weight: 700;

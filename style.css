@@ -41,6 +41,7 @@ div h1 {
 div strong {
     font-size: 14px;
     line-height: 21px;
+    color: oklch(83.7% 0.128 66.29);
 }
 
 div p {

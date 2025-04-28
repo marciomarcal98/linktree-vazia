@@ -69,7 +69,6 @@ div a {
 }
 
 div a:hover {
-    background-color: oklch(83.7% 0.128 66.29);
-    color: oklch(28.2% 0.091 267.935);
+    background-color: oklch(39.6% 0.141 25.723);
     transition: 0.7s;
 }
